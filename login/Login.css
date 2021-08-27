@@ -1,0 +1,15 @@
+.container input
+{
+    width: 60%;
+}
+.tab-pane
+{
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: content-box;
+    height: 200px;
+    overflow: visible;
+}
+.jumbotron-fluid
+{
+    text-align: center;
+}
